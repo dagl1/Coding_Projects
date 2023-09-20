@@ -1,0 +1,46 @@
+LOCUS       Bap1_C91A               2190 bp ds-DNA     linear       16-MAR-2023
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     CDS             1..2190
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="MNKGWLELESDPGLFTLLVEDFGVKGVQVEEIYDLQSKCQGPVYGFIFLFKWIEERRSRRKVSTLVDDTSVIDDDIVNNMFFAHQLIPNSAATHALLSVLLNCSSVDLGPTLSRMKDFTKGFSPESKGYAIGNAPELAKAHNSHARPEPRHLPEKQNGLSAVRTMEAFHFVSYVPITGRLFELDGLKVYPIDHGPWGEDEEWTDKARRVIMERIGLATAGEPYHDIRFNLMAVVPDRRIKYEARLHVLKVNRQTVLEALQQLIRVTQPELIQTHKSQESQLPEESKSASNKSPLVLEANRAPAASEGNHTDGAEEAAGSCAQAPSHSPPNKPKLVVKPPGSSLNGVHPNPTPIVQRLPAFLDNHNYAKSPMQEEEDLAAGVGRSRVPVRPPQQYSDDEDDYEDDEEDDVQNTNSALRYKGKGTGKPGALSGSADGQLSVLQPNTINVLAEKLKESQKDLSIPLSIKTSSGAGSPAVAVPTHSQPSPTPSNESTDTASEIGSAFNSPLRSPIRSANPTRPSSPVTSHISKVLFGEDDSLLRVDCIRYNRAVRDLGPVISTGLLHLAEDGVLSPLALTEGGKGSSPSIRPIQGSQGSSSPVEKEVVEATDSREKTGMVRPGEPLSGEKYSPKELLALLKCVEAEIANYEACLKEEVEKRKKFKIDDQRRTHNYDEFICTFISMLAQEGMLANLVEQNISVRRRQGVSIGRLHKQRKPDRRKRSRPYKAKRQ*"
+ORIGIN
+        1 atgaataagg gctggctgga gctggagagc gacccaggcc tcttcaccct gctcgtggaa
+       61 gatttcggtg tcaagggggt gcaagtggag gagatctacg accttcagag caaatgtcag
+      121 ggccctgtat atggatttat cttcctgttc aaatggatcg aagagcgccg gtcccggcga
+      181 aaggtctcta ccttggtgga tgatacgtcc gtgattgatg atgatattgt gaataacatg
+      241 ttctttgccc accagctgat acccaactct GCTgcaactc atgccttgct gagcgtgctc
+      301 ctgaactgca gcagcgtgga cctgggaccc accctgagtc gcatgaagga cttcaccaag
+      361 ggtttcagcc ctgagagcaa aggatatgcg attggcaatg ccccggagtt ggccaaggcc
+      421 cataatagcc atgccaggcc cgagccacgc cacctccctg agaagcagaa tggccttagt
+      481 gcagtgcgga ccatggaggc gttccacttt gtcagctatg tgcctatcac aggccggctc
+      541 tttgagctgg atgggctgaa ggtctacccc attgaccatg ggccctgggg ggaggacgag
+      601 gagtggacag acaaggcccg gcgggtcatc atggagcgta tcggcctcgc cactgcaggg
+      661 gagccctacc acgacatccg cttcaacctg atggcagtgg tgcccgaccg caggatcaag
+      721 tatgaggcca ggctgcatgt gctgaaggtg aaccgtcaga cagtactaga ggctctgcag
+      781 cagctgataa gagtaacaca gccagagctg attcagaccc acaagtctca agagtcacag
+      841 ctgcctgagg agtccaagtc agccagcaac aagtccccgc tggtgctgga agcaaacagg
+      901 gcccctgcag cctctgaggg caaccacaca gatggtgcag aggaggcggc tggttcatgc
+      961 gcacaagccc catcccacag ccctcccaac aaacccaagc tagtggtgaa gcctccaggc
+     1021 agcagcctca atggggttca ccccaacccc actcccattg tccagcggct gccggccttt
+     1081 ctagacaatc acaattatgc caagtccccc atgcaggagg aagaagacct ggcggcaggt
+     1141 gtgggccgca gccgagttcc agtccgccca ccccagcagt actcagatga tgaggatgac
+     1201 tatgaggatg acgaggagga tgacgtgcag aacaccaact ctgcccttag gtataagggg
+     1261 aagggaacag ggaagccagg ggcattgagc ggttctgctg atgggcaact gtcagtgctg
+     1321 cagcccaaca ccatcaacgt cttggctgag aagctcaaag agtcccagaa ggacctctca
+     1381 attcctctgt ccatcaagac tagcagcggg gctgggagtc cggctgtggc agtgcccaca
+     1441 cactcgcagc cctcacccac ccccagcaat gagagtacag acacggcctc tgagatcggc
+     1501 agtgctttca actcgccact gcgctcgcct atccgctcag ccaacccgac gcggccctcc
+     1561 agccctgtca cctcccacat ctccaaggtg ctttttggag aggatgacag cctgctgcgt
+     1621 gttgactgca tacgctacaa ccgtgctgtc cgtgatctgg gtcctgtcat cagcacaggc
+     1681 ctgctgcacc tggctgagga tggggtgctg agtcccctgg cgctgacaga gggtgggaag
+     1741 ggttcctcgc cctccatcag accaatccaa ggcagccagg ggtccagcag cccagtggag
+     1801 aaggaggtcg tggaagccac ggacagcaga gagaagacgg ggatggtgag gcctggcgag
+     1861 cccttgagtg gggagaaata ctcacccaag gagctgctgg cactgctgaa gtgtgtggag
+     1921 gctgagattg caaactatga ggcgtgcctc aaggaggagg tagagaagag gaagaagttc
+     1981 aagattgatg accagagaag gacccacaac tacgatgagt tcatctgcac ctttatctcc
+     2041 atgctggctc aggaaggcat gctggccaac ctagtggagc agaacatctc cgtgcggcgg
+     2101 cgccaagggg tcagcatcgg ccggctccac aagcagcgga agcctgaccg gcggaaacgc
+     2161 tctcgcccct acaaggccaa gcgccagtga
+//

@@ -1,0 +1,47 @@
+LOCUS       HIF1alpha_Isoform_1_seq 2481 bp ds-DNA     linear       02-DEC-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atggagggcg ccggcggcgc gaacgacaag aaaaagataa gttctgaacg tcgaaaagaa
+       61 aagtctcgag atgcagccag atctcggcga agtaaagaat ctgaagtttt ttatgagctt
+      121 gctcatcagt tgccacttcc acataatgtg agttcgcatc ttgataaggc ctctgtgatg
+      181 aggcttacca tcagctattt gcgtgtgagg aaacttctgg atgctggtga tttggatatt
+      241 gaagatgaca tgaaagcaca gatgaattgc ttttatttga aagccttgga tggttttgtt
+      301 atggttctca cagatgatgg tgacatgatt tacatttctg ataatgtgaa caaatacatg
+      361 ggattaactc agtttgaact aactggacac agtgtgtttg attttactca tccatgtgac
+      421 catgaggaaa tgagagaaat gcttacacac agaaatggcc ttgtgaaaaa gggtaaagaa
+      481 caaaacacac agcgaagctt ttttctcaga atgaagtgta ccctaactag ccgaggaaga
+      541 actatgaaca taaagtctgc aacatggaag gtattgcact gcacaggcca cattcacgta
+      601 tatgatacca acagtaacca acctcagtgt gggtataaga aaccacctat gacctgcttg
+      661 gtgctgattt gtgaacccat tcctcaccca tcaaatattg aaattccttt agatagcaag
+      721 actttcctca gtcgacacag cctggatatg aaattttctt attgtgatga aagaattacc
+      781 gaattgatgg gatatgagcc agaagaactt ttaggccgct caatttatga atattatcat
+      841 gctttggact ctgatcatct gaccaaaact catcatgata tgtttactaa aggacaagtc
+      901 accacaggac agtacaggat gcttgccaaa agaggtggat atgtctgggt tgaaactcaa
+      961 gcaactgtca tatataacac caagaattct caaccacagt gcattgtatg tgtgaattac
+     1021 gttgtgagtg gtattattca gcacgacttg attttctccc ttcaacaaac agaatgtgtc
+     1081 cttaaaccgg ttgaatcttc agatatgaaa atgactcagc tattcaccaa agttgaatca
+     1141 gaagatacaa gtagcctctt tgacaaactt aagaaggaac ctgatgcttt aactttgctg
+     1201 gccccagccg ctggagacac aatcatatct ttagattttg gcagcaacga cacagaaact
+     1261 gatgaccagc aacttgagga agtaccatta tataatgatg taatgctccc ctcacccaac
+     1321 gaaaaattac agaatataaa tttggcaatg tctccattac ccaccgctga aacgccaaag
+     1381 ccacttcgaa gtagtgctga ccctgcactc aatcaagaag ttgcattaaa attagaacca
+     1441 aatccagagt cactggaact ttcttttacc atgccccaga ttcaggatca gacacctagt
+     1501 ccttccgatg gaagcactag acaaagttca cctgagccta atagtcccag tgaatattgt
+     1561 ttttatgtgg atagtgatat ggtcaatgaa ttcaagttgg aattggtaga aaaacttttt
+     1621 gctgaagaca cagaagcaaa gaacccattt tctactcagg acacagattt agacttggag
+     1681 atgttagctc cctatatccc aatggatgat gacttccagt tacgttcctt cgatcagttg
+     1741 tcaccattag aaagcagttc cgcaagccct gaaagcgcaa gtcctcaaag cacagttaca
+     1801 gtattccagc agactcaaat acaagaacct actgctaatg ccaccactac cactgccacc
+     1861 actgatgaat taaaaacagt gacaaaagac cgtatggaag acattaaaat attgattgca
+     1921 tctccatctc ctacccacat acataaagaa actactagtg ccacatcatc accatataga
+     1981 gatactcaaa gtcggacagc ctcaccaaac agagcaggaa aaggagtcat agaacagaca
+     2041 gaaaaatctc atccaagaag ccctaacgtg ttatctgtcg ctttgagtca aagaactaca
+     2101 gttcctgagg aagaactaaa tccaaagata ctagctttgc agaatgctca gagaaagcga
+     2161 aaaatggaac atgatggttc actttttcaa gcagtaggaa ttggaacatt attacagcag
+     2221 ccagacgatc atgcagctac tacatcactt tcttggaaac gtgtaaaagg atgcaaatct
+     2281 agtgaacaga atggaatgga gcaaaagaca attattttaa taccctctga tttagcatgt
+     2341 agactgctgg ggcaatcaat ggatgaaagt ggattaccac agctgaccag ttatgattgt
+     2401 gaagttaatg ctcctataca aggcagcaga aacctactgc agggtgaaga attactcaga
+     2461 gctttggatc aagttaactg a
+//

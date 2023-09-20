@@ -1,0 +1,25 @@
+LOCUS       DNTTIP1                  990 bp ds-DNA     linear       15-MAR-2022
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     CDS             427..492
+                     /label="Translation 427-492"
+                     /translation="LPGIKRGRQAEEECAHRGSPLP"
+ORIGIN
+        1 atgggagcca ctggcgacgc cgagcagccg cggggaccta gcggggccga gaggggcggc
+       61 ttggagctgg gggatgcggg cgcagcgggg cagctggttc ttacgaaccc ttggaacata
+      121 atgataaagc accggcaggt gcagcggagg ggccgccgct cacagatgac aacaagtttc
+      181 acagatcctg ccatctccat ggatctcctc cgagctgtcc tgcagcccag catcaacgag
+      241 gagatccaga ctgtcttcaa caagtacatg aagttcttcc agaaggcagc actgaacgtg
+      301 cgagacaatg ttggggagga ggtggacgca gagcagctga tccaggaagc ctgtcggagc
+      361 tgcctggagc aggctaaact gctcttttca gatggagaaa aagtaatacc cagattgacc
+      421 catgagcttc caggaataaa gcgtggccgt caggcagaag aagaatgtgc ccatcgagga
+      481 agcccccttc ctaaaaagag gaaaggacgg cctcctggac acatcctgtc aagcgaccgg
+      541 gcagccgccg gcatggtatg gaaaccaaaa tcctgtgaac caattcgccg ggaaggcccc
+      601 aagtgggacc cagctcgcct gaatgaatct accacctttg tgttgggatc tcgagccaac
+      661 aaagccctgg ggatgggggg caccagagga agaatctaca tcaagcaccc acacctcttt
+      721 aagtatgcag ctgaccccca ggataagcac tggctggctg agcagcatca catgcgggca
+      781 acagggggca agatggccta cctcctcatc gaggaggaca tccgggacct tgcggccagt
+      841 gatgattaca gaggatgcct ggatctgaag ctagaggaat tgaaatcctt tgtcctaccc
+      901 tcctggatgg tggagaagat gagaaagtat atggagacac tacggacaga gaatgagcat
+      961 cgtgctgttg aagcacctcc acagacctga
+//

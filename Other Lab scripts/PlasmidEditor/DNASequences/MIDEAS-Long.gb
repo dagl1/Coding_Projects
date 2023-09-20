@@ -1,0 +1,118 @@
+LOCUS       Mideas_Long             3300 bp ds-DNA     linear       02-JUN-2022
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    1..3135
+                     /label="Short Isoform Minus TAA"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     CDS             1..3135
+                     /label="Translation 1-3135"
+                     /translation="MNLQAQPKAQNKRKRCLFGGQEPAPKEQPPPLQPPQQSIRVKEEQYLGHEGPGGAVSTSQPVELPPPSSLALLNSVVYGPERTSAAMLSQQVASVKWPNSVMAPGRGPERGGGGGVSDSSWQQQPGQPPPHSTWNCHSLSLYSATKGSPHPGVGVPTYYNHPEALKREKAGGPQLDRYVRPMMPQKVQLEVGRPQAPLNSFHAAKKPPNQSLPLQPFQLAFGHQVNRQVFRQGPPPPNPVAAFPPQKQQQQQQPQQQQQQQQAALPQMPLFENFYSMPQQPSQQPQDFGLQPAGPLGQSHLAHHSMAPYPFPPNPDMNPELRKALLQDSAPQPALPQVQIPFPRRSRRLSKEGILPPSALDGAGTQPGQEATGNLFLHHWPLQQPPPGSLGQPHPEALGFPLELRESQLLPDGERLAPNGREREAPAMGSEEGMRAVSTGDCGQVLRGGVIQSTRRRRRASQEANLLTLAQKAVELASLQNAKDGSGSEEKRKSVLASTTKCGVEFSEPSLATKRAREDSGMVPLIIPVSVPVRTVDPTEAAQAGGLDEDGKGPEQNPAEHKPSVIVTRRRSTRIPGTDAQAQAEDMNVKLEGEPSVRKPKQRPRPEPLIIPTKAGTFIAPPVYSNITPYQSHLRSPVRLADHPSERSFELPPYTPPPILSPVREGSGLYFNAIISTSTIPAPPPITPKSAHRTLLRTNSAEVTPPVLSVMGEATPVSIEPRINVGSRFQAEIPLMRDRALAAADPHKADLVWQPWEDLESSREKQRQVEDLLTAACSSIFPGAGTNQELALHCLHESRGDILETLNKLLLKKPLRPHNHPLATYHYTGSDQWKMAERKLFNKGIAIYKKDFFLVQKLIQTKTVAQCVEFYYTYKKQVKIGRNGTLTFGDVDTSDEKSAQEEVEVDIKTSQKFPRVPLPRRESPSEERLEPKREVKEPRKEGEEEVPEIQEKEEQEEGRERSRRAAAVKATQTLQANESASDILILRSHESNAPGSAGGQASEKPREGTGKSRRALPFSEKKKKTETFSKTQNQENTFPCKKCGR"
+     misc_feature    complement(3001..3041)
+                     /label="Mideas Linker RV #2"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    3024..3065
+                     /label="Mideas Linker FV #2"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(3103..3153)
+                     /label="Mideas Link RV #1"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    3116..3165
+                     /label="Mideas primer FV #1"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    3118..3300
+                     /label="PCR fragment"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     CDS             3118..3300
+                     /label="Translation 3118-3300"
+                     /translation="CKKCGRVFYKVKSRSAHMKSHAEQEKKAAALRLKEKEAAAAAAAAHQQALREESGAGDKG*"
+     misc_feature    3132..3134
+                     /label="Alternative splice site (for Long isoform)"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    3133..3156
+                     /label="Mideas Link FV #3"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     misc_feature    3247..3249
+                     /label="mutation"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    complement(3273..3300)
+                     /label="N Mideas S3 RV"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     misc_feature    complement(3273..3300)
+                     /label="B2 N Mideas S3 RV"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    complement(3279..3297)
+                     /label="Mideas S3 C RV #3"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     misc_feature    complement(3281..3300)
+                     /label="Mideas S3 N RV #3"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+ORIGIN
+        1 atgaacctcc aggcccagcc caaggctcag aacaagcgga agcgttgcct cttcgggggc
+       61 caggaaccag ctcccaagga gcagccccct cccctgcagc ccccccagca gtccatcaga
+      121 gtgaaggagg agcagtacct cgggcacgag ggtccaggag gggcagtctc cacctctcag
+      181 cctgtggaac tgccccctcc tagcagcctg gccctgctga actctgtggt atatgggcct
+      241 gagcggacct cagcagccat gctgtcccag caggtggcct cagtaaagtg gcccaactct
+      301 gtgatggctc cagggcgggg cccggagcgt ggaggaggtg ggggtgtcag tgacagcagc
+      361 tggcagcagc agccaggcca gcctccaccc cattcaacat ggaactgcca cagtctgtcc
+      421 ctctacagtg caaccaaggg gagcccgcat cctggagtgg gagtcccgac ttactataac
+      481 caccctgagg cactgaagcg ggagaaagcg gggggcccac agctggaccg ctatgtgcga
+      541 ccaatgatgc cacagaaggt gcagctggag gtagggcggc cccaggcacc cctgaattct
+      601 ttccacgcag ccaagaaacc cccaaaccag tcactgcccc tgcaaccctt ccagctggca
+      661 ttcggccacc aggtgaaccg gcaggtcttc cggcagggcc caccgccccc aaacccggtg
+      721 gctgccttcc ctccacagaa gcagcagcag cagcagcaac cacagcagca gcagcagcag
+      781 cagcaggcag ccctacccca gatgccgctc tttgagaact tctattccat gccgcagcaa
+      841 ccctcgcagc aaccccagga ctttggcctg cagccagctg ggccactggg acagtcccac
+      901 ctggctcacc acagcatggc accctacccc ttccccccca acccagatat gaacccagaa
+      961 ctgcgcaagg cccttctgca ggactcagcc ccgcagccag cgctacctca ggtccagatc
+     1021 cccttccccc gccgctcccg ccgcctctct aaggagggta tcctgcctcc cagcgccctg
+     1081 gatggggctg gcacccagcc tgggcaggag gccactggca acctgttcct acatcactgg
+     1141 cccctgcagc agccgccacc tggctccctg gggcagcccc atcctgaagc tctgggattc
+     1201 ccgctggagc tgagggagtc gcagctactg cctgatgggg agagactagc acccaatggc
+     1261 cgggagcgag aggctcctgc catgggcagc gaggagggca tgagggcagt gagcacaggg
+     1321 gactgtgggc aggtgctacg gggcggagtg atccagagca cgcgacggag gcgccgggca
+     1381 tcccaggagg ccaatttgct gaccctggcc cagaaggctg tggagctggc ctcactgcag
+     1441 aatgcaaagg atggcagtgg ttctgaagag aagcggaaaa gtgtattggc ctcaactacc
+     1501 aagtgtgggg tggagttttc tgagccttcc ttagccacca agcgagcacg agaagacagt
+     1561 gggatggtac ccctcatcat cccagtgtct gtgcctgtgc gaactgtgga cccaactgag
+     1621 gcagcccagg ctggaggtct tgatgaggac gggaagggtc ctgaacagaa ccctgctgag
+     1681 cacaagccat cagtcatcgt cacccgcagg cggtccaccc gaatccccgg gacagatgct
+     1741 caagctcagg cagaggacat gaatgtcaag ttggaggggg agccttccgt gcggaaacca
+     1801 aagcagcggc ccaggcccga gcccctcatc atccccacca aggcgggcac tttcatcgcc
+     1861 cctcccgtct actccaacat caccccatac cagagccacc tgcgctctcc cgtgcgccta
+     1921 gctgaccacc cctctgagcg gagctttgag ctacctccct acacgccgcc ccccatcctc
+     1981 agccctgtgc gggaaggctc tggcctctac ttcaatgcca tcatatcaac cagcaccatc
+     2041 cctgcccctc ctcccatcac gcctaagagt gcccatcgca cgctgctccg gactaacagt
+     2101 gctgaagtaa ccccgcctgt cctctctgtg atgggggagg ccaccccagt gagcatcgag
+     2161 ccacggatca acgtgggctc ccggttccag gcagaaatcc ccttgatgag ggaccgtgcc
+     2221 ctggcagctg cagatcccca caaggctgac ttggtgtggc agccatggga ggacctagag
+     2281 agcagccggg agaagcagag gcaagtggaa gacctgctga cagccgcctg ctccagcatt
+     2341 ttccctggtg ctggcaccaa ccaggagctg gccctgcact gtctgcacga atccagagga
+     2401 gacatcctgg aaacgctgaa taagctgctg ctgaagaagc ccctgcggcc ccacaaccat
+     2461 ccgctggcaa cttatcacta cacaggctct gaccagtgga agatggccga gaggaagctg
+     2521 ttcaacaaag gcattgccat ctacaagaag gatttcttcc tggtgcagaa gctgatccag
+     2581 accaagaccg tggcccagtg cgtggagttc tactacacct acaagaagca ggtgaaaatc
+     2641 ggccgcaatg ggactctaac ctttggggat gtggatacga gcgatgagaa gtcggcccag
+     2701 gaagaggttg aagtggatat taagacttcc caaaagttcc caagggtgcc tcttcccaga
+     2761 agagagtccc caagtgaaga gaggctggag cccaagaggg aggtgaagga gcccaggaag
+     2821 gagggggagg aggaggtgcc agagatccaa gagaaggagg agcaggaaga ggggcgagag
+     2881 cgcagcaggc gggcagcggc agtcaaagcc acgcagacac tacaggccaa tgagtcggcc
+     2941 agtgacatcc tcatcctccg gagccacgag tccaacgccc ctgggtctgc cggtggccag
+     3001 gcctcggaga agccaaggga agggacaggg aagtcacgaa gggcactacc tttttcagag
+     3061 aagaagaaaa aaacagagac attcagtaag acccagaatc aggagaacac tttcccctgt
+     3121 aaaaaatgtg gcagggtgtt ttacaaggtg aagagccgca gtgcgcatat gaagagccac
+     3181 gcagagcagg agaagaaggc tgcagcgctg aggctgaagg agaaagaggc cgctgctgcc
+     3241 gccgccgccg cccaccagca ggccctgcgg gaggagagcg gtgcgggcga caagggctga
+//

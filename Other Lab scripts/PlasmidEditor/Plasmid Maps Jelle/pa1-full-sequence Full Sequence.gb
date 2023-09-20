@@ -1,0 +1,18 @@
+LOCUS       PA1_full_sequence        765 bp ds-DNA     linear       06-OCT-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atgtcccttg ctcggggcca tggagacact gcggccagta cggcggcgcc tctgtctgaa
+       61 gaaggggaag tgacctccgg cctccaggct ctggccgtgg aggataccgg aggcccctct
+      121 gcctcggccg gtaaggccga ggacgagggg gaaggaggcc gagaggagac cgagcgtgag
+      181 gggtccgggg gcgaggaggc gcagggagaa gtccccagcg ctgggggaga agagcctgcc
+      241 gaggaggact ccgaggactg gtgcgtgccc tgcagcgacg aggaggtgga gctgcctgcg
+      301 gatgggcagc cctggatgcc cccgccctcc gaaatccagc ggctctatga actgctggct
+      361 gcccacggta ctctggagct gcaagccgag atcctgcccc gccggcctcc cacgccggag
+      421 gcccagagcg aagaggagag atccgatgag gagccggagg ccaaagaaga ggaagaggaa
+      481 aaaccacaca tgcccacgga atttgatttt gatgatgagc cagtgacacc aaaggactcc
+      541 ctgattgacc ggagacgcac cccaggaagc tcagcccgga gccagaaacg ggaggcccgc
+      601 ctggacaagg tgctgtcgga catgaagaga cacaagaagc tggaggagca gatccttcgt
+      661 accgggaggg acctcttcag cctggactcg gaggacccca gccccgccag ccccccactc
+      721 cgatcctccg ggagtagtct cttccctcgg cagcggaaat actga
+//

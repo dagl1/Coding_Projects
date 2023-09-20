@@ -1,0 +1,49 @@
+LOCUS       HIF2a_(EPAS1)           2613 bp ds-DNA     linear       02-DEC-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 atgacagctg acaaggagaa gaaaaggagt agctcggaga ggaggaagga gaagtcccgg
+       61 gatgctgcgc ggtgccggcg gagcaaggag acggaggtgt tctatgagct ggcccatgag
+      121 ctgcctctgc cccacagtgt gagctcccat ctggacaagg cctccatcat gcgactggca
+      181 atcagcttcc tgcgaacaca caagctcctc tcctcagttt gctctgaaaa cgagtccgaa
+      241 gccgaagctg accagcagat ggacaacttg tacctgaaag ccttggaggg tttcattgcc
+      301 gtggtgaccc aagatggcga catgatcttt ctgtcagaaa acatcagcaa gttcatggga
+      361 cttacacagg tggagctaac aggacatagt atctttgact tcactcatcc ctgcgaccat
+      421 gaggagattc gtgagaacct gagtctcaaa aatggctctg gttttgggaa aaaaagcaaa
+      481 gacatgtcca cagagcggga cttcttcatg aggatgaagt gcacggtcac caacagaggc
+      541 cgtactgtca acctcaagtc agccacctgg aaggtcttgc actgcacggg ccaggtgaaa
+      601 gtctacaaca actgccctcc tcacaatagt ctgtgtggct acaaggagcc cctgctgtcc
+      661 tgcctcatca tcatgtgtga accaatccag cacccatccc acatggacat ccccctggat
+      721 agcaagacct tcctgagccg ccacagcatg gacatgaagt tcacctactg tgatgacaga
+      781 atcacagaac tgattggtta ccaccctgag gagctgcttg gccgctcagc ctatgaattc
+      841 taccatgcgc tagactccga gaacatgacc aagagtcacc agaacttgtg caccaagggt
+      901 caggtagtaa gtggccagta ccggatgctc gcaaagcatg ggggctacgt gtggctggag
+      961 acccagggga cggtcatcta caaccctcgc aacctgcagc cccagtgcat catgtgtgtc
+     1021 aactacgtcc tgagtgagat tgagaagaat gacgtggtgt tctccatgga ccagactgaa
+     1081 tccctgttca agccccacct gatggccatg aacagcatct ttgatagcag tggcaagggg
+     1141 gctgtgtctg agaagagtaa cttcctattc accaagctaa aggaggagcc cgaggagctg
+     1201 gcccagctgg ctcccacccc aggagacgcc atcatctctc tggatttcgg gaatcagaac
+     1261 ttcgaggagt cctcagccta tggcaaggcc atcctgcccc cgagccagcc atgggccacg
+     1321 gagttgagga gccacagcac ccagagcgag gctgggagcc tgcctgcctt caccgtgccc
+     1381 caggcagctg ccccgggcag caccaccccc agtgccacca gcagcagcag cagctgctcc
+     1441 acgcccaata gccctgaaga ctattacaca tctttggata acgacctgaa gattgaagtg
+     1501 attgagaagc tcttcgccat ggacacagag gccaaggacc aatgcagtac ccagacggat
+     1561 ttcaatgagc tggacttgga gacactggca ccctatatcc ccatggacgg ggaagacttc
+     1621 cagctaagcc ccatctgccc cgaggagcgg ctcttggcgg agaacccaca gtccaccccc
+     1681 cagcactgct tcagtgccat gacaaacatc ttccagccac tggcccctgt agccccgcac
+     1741 agtcccttcc tcctggacaa gtttcagcag cagctggaga gcaagaagac agagcccgag
+     1801 caccggccca tgtcctccat cttctttgat gccggaagca aagcatccct gccaccgtgc
+     1861 tgtggccagg ccagcacccc tctctcttcc atggggggca gatccaatac ccagtggccc
+     1921 ccagatccac cattacattt tgggcccaca aagtgggccg tcggggatca gcgcacagag
+     1981 ttcttgggag cagcgccgtt ggggccccct gtctctccac cccatgtctc caccttcaag
+     2041 acaaggtctg caaagggttt tggggctcga ggcccagacg tgctgagtcc ggccatggta
+     2101 gccctctcca acaagctgaa gctgaagcga cagctggagt atgaagagca agccttccag
+     2161 gacctgagcg ggggggaccc acctggtggc agcacctcac atttgatgtg gaaacggatg
+     2221 aagaacctca ggggtgggag ctgccctttg atgccggaca agccactgag cgcaaatgta
+     2281 cccaatgata agttcaccca aaaccccatg aggggcctgg gccatcccct gagacatctg
+     2341 ccgctgccac agcctccatc tgccatcagt cccggggaga acagcaagag caggttcccc
+     2401 ccacagtgct acgccaccca gtaccaggac tacagcctgt cgtcagccca caaggtgtca
+     2461 ggcatggcaa gccggctgct cgggccctca tttgagtcct acctgctgcc cgaactgacc
+     2521 agatatgact gtgaggtgaa cgtgcccgtg ctgggaagct ccacgctcct gcaaggaggg
+     2581 gacctcctca gagccctgga ccaggccacc tga
+//
